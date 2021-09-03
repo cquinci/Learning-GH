@@ -10,4 +10,5 @@ import Foundation
 struct MyModel {
     
     var name: String = "Cam"
+    var city: String?
 }
